@@ -16,7 +16,7 @@ This is a simple command-line interface (CLI) ToDo app built with Gorm ORM for M
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/vinay-chin/todo-cli.git
+    git clone https://github.com/asivanarayana/todo-cli.git
     ```
 
 2. Navigate to the project directory:
